@@ -99,6 +99,8 @@ Some general open source licensing resources:
  <https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html>
 - <https://writing.kemitchell.com/2016/05/13/What-Open-Source-Means.html>
 - <https://writing.kemitchell.com/2017/03/29/OSS-Business-Perception-Report.html>
+- <https://choosealicense.com/>
+- <https://help.github.com/articles/licensing-a-repository/>
 
 ### CC0 resources
 
