@@ -73,6 +73,9 @@ other resources:
 - <https://www.styled-components.com/>
 - <https://github.com/picostyle/picostyle>
 - <https://github.com/picodom/picodom>
+- <http://youmightnotneedjs.com/>
+- <https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca>
+- <https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b>
 
 ## Sessions
 
