@@ -31,6 +31,8 @@ Get rid of virtual DOM:
 - [NO:DOM (https://github.com/redom/nodom)](https://github.com/redom/nodom) fake DOM for RE:DOM
 - <https://github.com/hville/attodom>
 
+Looks like another way to get rid of virtual DOM: <https://github.com/Riim/cellx>
+
 other resources:
 
 - <https://hackernoon.com/web-components-the-react-way-8ed5b6f4f942>
