@@ -22,14 +22,22 @@ It is now possible to build high quality web apps, mobile apps, and even PC apps
 
 ## Programming
 
+Get rid of virtual DOM:
+
+- <https://github.com/adamhaile/S>
+- <https://github.com/adamhaile/surplus>
+- [RE:DOM (https://redom.js.org/)](https://redom.js.org/) née [frzr.js (https://frzr.js.org/)](https://frzr.js.org/) (<https://github.com/pakastin/frzr>) (no Virtual DOM) with [Juha Lindstedt - Minimum Viable Library talk at Helsinki JS (http://youtu.be/0nh2EK1xveg)](http://youtu.be/0nh2EK1xveg)
+- <https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff>
+- [NO:DOM (https://github.com/redom/nodom)](https://github.com/redom/nodom) fake DOM for RE:DOM
+- <https://github.com/hville/attodom>
+
+other resources:
+
 - <https://hackernoon.com/web-components-the-react-way-8ed5b6f4f942>
 - <https://hackernoon.com/build-your-own-react-48edb8ed350d>
-- <https://hackernoon.com/how-i-converted-my-react-app-to-vanillajs-and-whether-or-not-it-was-a-terrible-idea-4b14b1b2faff>
 - <https://medium.freecodecamp.org/engage-your-users-and-enhance-their-experience-with-progressive-web-apps-de0e0bfb2fbf>
 - <https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/>
-- [RE:DOM (https://redom.js.org/)](https://redom.js.org/) née [frzr.js (https://frzr.js.org/)](https://frzr.js.org/) (<https://github.com/pakastin/frzr>) (no Virtual DOM) with [Juha Lindstedt - Minimum Viable Library talk at Helsinki JS (http://youtu.be/0nh2EK1xveg)](http://youtu.be/0nh2EK1xveg)
 - <https://github.com/yelouafi/petit-dom> ("minimalist virtual DOM library") with diff algorithm based on <https://neil.fraser.name/writing/diff/>
-- [NO:DOM (https://github.com/redom/nodom)](https://github.com/redom/nodom) fake DOM for RE:DOM
 - <https://auth0.com/blog/learn-about-inferno-js-build-and-authenticate-an-app/>
 - <https://github.com/developit/unistore> "650b state container with component actions for Preact & React"
 - <https://github.com/developit/stockroom> - "seamlessly runs a Unistore store (and its actions) in a Web Worker"
@@ -60,6 +68,9 @@ It is now possible to build high quality web apps, mobile apps, and even PC apps
 - <https://medium.com/dailyjs/inserting-variables-into-html-and-javascript-with-webpack-80f33625edc6>
 - <https://www.toptal.com/mobile/developing-mobile-applications-with-apache-cordova>
 - <https://codesundar.com/lesson/cordova-sqlite-storage/>
+- <https://www.styled-components.com/>
+- <https://github.com/picostyle/picostyle>
+- <https://github.com/picodom/picodom>
 
 ## Sessions
 
@@ -89,7 +100,6 @@ It is now possible to build high quality web apps, mobile apps, and even PC apps
 
 - <https://github.com/sindresorhus/awesome>
 - <https://github.com/RichardLitt/meta-knowledge>
-- <
 
 ## Licences
 
