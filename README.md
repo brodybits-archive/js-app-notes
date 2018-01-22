@@ -22,6 +22,10 @@ It is now possible to build high quality web apps, mobile apps, and even PC apps
 
 ## Programming
 
+Higher level:
+
+- Cerebral JS <https://cerebraljs.com/>
+
 Get rid of virtual DOM:
 
 - <https://github.com/adamhaile/S>
@@ -31,7 +35,15 @@ Get rid of virtual DOM:
 - [NO:DOM (https://github.com/redom/nodom)](https://github.com/redom/nodom) fake DOM for RE:DOM
 - <https://github.com/hville/attodom>
 
-Looks like another way to get rid of virtual DOM: <https://github.com/Riim/cellx>
+Other possible ways to get rid of virtual DOM:
+- <https://github.com/Riim/cellx>
+- <https://github.com/paldepind/flyd>
+
+public domain:
+
+- <https://frontend.18f.gov/web-components/>
+- <https://github.com/18F/web-design-standards>
+- <https://github.com/cfpb/capital-framework>
 
 other resources:
 
@@ -76,6 +88,8 @@ other resources:
 - <http://youmightnotneedjs.com/>
 - <https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca>
 - <https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b>
+- <https://github.com/Semantic-Org/Semantic-UI>
+- <https://github.com/paldepind/functional-frontend-architecture>
 
 ## Sessions
 
@@ -105,6 +119,14 @@ other resources:
 
 - Flow-based programming <http://www.jpaulmorrison.com/fbp/>
 - <http://rockscript.io/> / <https://github.com/rockscript/rockscript>
+
+NoFlo items:
+- <https://bergie.iki.fi/blog/noflo-process-api/>
+- <https://bergie.iki.fi/blog/ascallback/> - embedding in JavaScript programs
+- <https://bergie.iki.fi/blog/noflo-webpack/>
+- <https://bergie.iki.fi/blog/redux-middleware-noflo/>
+- <https://bergie.iki.fi/blog/forget-http-microservices/>
+- <https://github.com/noflo/react-example> - React TODO example
 
 ## Knowledge
 
