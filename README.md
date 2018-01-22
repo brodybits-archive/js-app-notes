@@ -1,4 +1,4 @@
-# JavaScript App notes and resources
+# App dev notes and resources
 
 **Author:** [@brodybits (Christopher J. Brody)](https://github.com/brodybits)
 
@@ -100,6 +100,11 @@ other resources:
 
 - <https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354>
 - <https://github.com/lukeed/polka> - fast alternative to Express.js
+
+## Alt
+
+- Flow-based programming <http://www.jpaulmorrison.com/fbp/>
+- <http://rockscript.io/> / <https://github.com/rockscript/rockscript>
 
 ## Knowledge
 
