@@ -44,6 +44,7 @@ public domain:
 - <https://frontend.18f.gov/web-components/>
 - <https://github.com/18F/web-design-standards>
 - <https://github.com/cfpb/capital-framework>
+- <https://github.com/uswds>
 
 other resources:
 
@@ -108,6 +109,19 @@ other resources:
 - <https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0>
 - <https://medium.com/@nate_wang/rekit-now-supports-react-fiber-f22f76347e77>
 - <https://medium.freecodecamp.org/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531>
+- <https://hackernoon.com/on-technical-debt-7bac65edf349>
+- <https://martinfowler.com/bliki/SacrificialArchitecture.html>
+- <https://blog.runscope.com/posts/monolith-microservices-transforming-real-world-ecommerce-platform-using-strangler-pattern>
+- <https://www.martinfowler.com/bliki/AssetCapture.html>
+- <https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler>
+- <https://www.ibm.com/developerworks/cloud/library/cl-strangler-application-pattern-microservices-apps-trs/index.html>
+- <https://paulhammant.com/2013/07/14/legacy-application-strangulation-case-studies/>
+- <https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/>
+- <https://www.michielrook.nl/2016/11/strangler-pattern-practice/>
+- <https://jaxenter.com/strangler-pattern-practice-132783.html>
+- <https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/>
+- <http://microservices.io/patterns/microservice-chassis.html>
+- <http://scalecube.io/>
 
 ## Design
 
