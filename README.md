@@ -91,6 +91,10 @@ other resources:
 - <https://github.com/Semantic-Org/Semantic-UI>
 - <https://github.com/paldepind/functional-frontend-architecture>
 
+## Runtimes
+
+- <https://github.com/Microsoft/napajs>
+
 ## Sessions
 
 - <https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies>
