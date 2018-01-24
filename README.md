@@ -98,6 +98,15 @@ react (general):
 - <https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce> (favors using properties over HOCs and other forms of mixins)
 - <https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html>
 
+offline data synchronization (alternatives):
+
+- Gun.js
+- deepstream.io
+- PouchDB / CouchDB
+- realm.io
+- <https://github.com/paldepind/synceddb>
+- <https://www.npmjs.com/package/dexie-syncable> (part of Dexie.js)
+
 other (uncategorized) resources:
 
 - <https://github.com/jaredpalmer/formik>
