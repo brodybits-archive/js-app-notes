@@ -48,6 +48,7 @@ public domain:
 
 other resources:
 
+- <https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec>
 - <https://hackernoon.com/web-components-the-react-way-8ed5b6f4f942>
 - <https://hackernoon.com/build-your-own-react-48edb8ed350d>
 - <https://medium.freecodecamp.org/engage-your-users-and-enhance-their-experience-with-progressive-web-apps-de0e0bfb2fbf>
