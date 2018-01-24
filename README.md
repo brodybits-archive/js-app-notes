@@ -22,9 +22,16 @@ It is now possible to build high quality web apps, mobile apps, and even PC apps
 
 ## Programming
 
+Important reading:
+
+- <https://codeburst.io/javascript-can-a-1-a-2-a-3-ever-evaluate-to-true-aca13ff4462d>
+- <https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f>
+- <https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953> - "How to write and build JS libraries in 2018" by Anton Kosykh
+
 Higher level:
 
 - Cerebral JS <https://cerebraljs.com/>
+- <https://survivejs.com/blog/cerebral-interview/>
 
 Get rid of virtual DOM:
 
@@ -46,8 +53,73 @@ public domain:
 - <https://github.com/cfpb/capital-framework>
 - <https://github.com/uswds>
 
-other resources:
+Major CSS:
 
+- <http://youmightnotneedjs.com/>
+- <https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390>
+- <http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html>
+- <https://github.com/mattzeunert/CSS-Todo-App>
+- <https://codepen.io/scryptonite/pen/oLGzdj> - another "CSS-only Todo"
+- <https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390>
+- <https://medium.com/@fluffystub/centering-a-div-within-a-larger-div-cab2953499a8>
+- <https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de>
+- <https://github.com/ibm/css-gridish>
+- <https://github.com/airbnb/Lona>
+- <https://airbnb.design/building-a-visual-language/>
+
+Online coding:
+
+- <https://survivejs.com/blog/codesandbox-interview/>
+- <https://glitch.com/>
+- <https://esnextb.in/>
+- <https://support.glitch.com/c/the-gallery>
+- <https://www.sitepoint.com/round-up-online-code-playgrounds/>
+- <https://www.sitepoint.com/7-code-playgrounds/>
+
+Bundlers:
+
+- <https://stackshare.io/webpack>
+- <https://github.com/jaredpalmer/backpack>
+- <https://github.com/jaredpalmer/razzle>
+- <https://github.com/facebook/metro> (for React Native)
+- <https://github.com/lukeed/taskr>
+- <https://fuse-box.org/> (<https://github.com/fuse-box/fuse-box>) - TypeScript-friendly bundler
+- <https://dev.to/kayis/4-javascript-bundlers-2g4b>
+
+bridge.net:
+
+- <https://bridge.net/>
+- <https://blog.bridge.net/2200-js-libraries-in-c-using-retyped-dcfafb28b119>
+- <https://retyped.com/>
+
+react (general):
+
+- <https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594>
+- <https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce> (favors using properties over HOCs and other forms of mixins)
+- <https://reactjs.org/blog/2016/07/13/mixins-considered-harmful.html>
+
+other (uncategorized) resources:
+
+- <https://github.com/jaredpalmer/formik>
+- <https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d>
+- <https://medium.freecodecamp.org/react-interview-question-what-gets-rendered-in-the-browser-a-component-or-an-element-1b3eac777c85>
+- <https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839>
+- <https://medium.freecodecamp.org/openssl-command-cheatsheet-b441be1e8c4a>
+- <https://medium.com/@alexeysamoshkin/how-ssl-certificate-revocation-is-broken-in-practice-af3b63b9cb3>
+- <https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d> - summary of a number of important JavaScript concepts
+- <https://blog.manifold.co/build-a-fast-offline-first-pwa-with-stenciljs-596727624e5c>
+- <https://medium.com/js-dojo/offline-first-masonry-grid-showcase-with-vue-3cd3121dabae?source=placement_card_footer_grid---------2-44>
+- <https://medium.com/dev-bits/everything-i-know-about-writing-modular-javascript-applications-37c125d8eddf>
+- <https://medium.com/dev-bits/writing-neat-asynchronous-node-js-code-with-promises-32ed3a4fd098>
+- <https://medium.com/on-learning-new-things/learning-new-things-f4db7f16724>
+- <https://medium.com/on-learning-new-things/pure-css-art-a42245a20a1c>
+- <https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849>
+- <https://medium.com/on-learning-new-things/facial-recognition-in-javascript-using-tracking-js-9fc7953d74ae>
+- <https://trackingjs.com/>
+- <https://github.com/eduardolundgren/tracking.js>
+- <https://github.com/eduardolundgren/tracking-elements>
+- <https://github.com/jaredpalmer/razzle> - "Create server-rendered universal JavaScript applications with no configuration"
+- <https://github.com/jaredpalmer/after.js> - "Next.js-like framework for server-rendered React apps built with React Router 4"
 - <https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec>
 - <https://hackernoon.com/web-components-the-react-way-8ed5b6f4f942>
 - <https://hackernoon.com/build-your-own-react-48edb8ed350d>
@@ -87,7 +159,6 @@ other resources:
 - <https://www.styled-components.com/>
 - <https://github.com/picostyle/picostyle>
 - <https://github.com/picodom/picodom>
-- <http://youmightnotneedjs.com/>
 - <https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca>
 - <https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b>
 - <https://github.com/Semantic-Org/Semantic-UI>
@@ -146,6 +217,10 @@ NoFlo items:
 - <https://bergie.iki.fi/blog/redux-middleware-noflo/>
 - <https://bergie.iki.fi/blog/forget-http-microservices/>
 - <https://github.com/noflo/react-example> - React TODO example
+
+## Windows
+
+- <https://medium.freecodecamp.org/automating-your-windows-subsystem-linux-setup-df4c9a7b0e7b>
 
 ## Knowledge
 
