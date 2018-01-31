@@ -109,6 +109,10 @@ offline data synchronization (alternatives):
 
 other (uncategorized) resources:
 
+- <https://github.com/jchook/babel-plugin-transform-h-jsx>
+- <https://github.com/substack/babel-plugin-jsx-factory>
+- <https://github.com/ohanhi/hyperscript-helpers>
+- <https://github.com/mattdesl/module-best-practices>
 - <https://github.com/jaredpalmer/formik>
 - <https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d>
 - <https://medium.freecodecamp.org/react-interview-question-what-gets-rendered-in-the-browser-a-component-or-an-element-1b3eac777c85>
@@ -187,6 +191,7 @@ other (uncategorized) resources:
 
 ## Architecture
 
+- <https://github.com/binhnguyennus/awesome-scalability>
 - <https://medium.com/@nate_wang/feature-oriented-architecture-for-web-applications-2b48e358afb0>
 - <https://medium.com/@nate_wang/rekit-now-supports-react-fiber-f22f76347e77>
 - <https://medium.freecodecamp.org/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531>
