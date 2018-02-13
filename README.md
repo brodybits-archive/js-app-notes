@@ -28,6 +28,11 @@ Important reading:
 - <https://dev.to/aspittel/functional-programming-in-javascript-done-right-with-hyperapp-570f>
 - <https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953> - "How to write and build JS libraries in 2018" by Anton Kosykh
 
+Modern coding items:
+
+- <https://github.com/coffeescript6/discuss/issues/9#issuecomment-236042104> - "a decorator is just a normal, higher-order function" ...
+
+
 Higher level:
 
 - Cerebral JS <https://cerebraljs.com/>
